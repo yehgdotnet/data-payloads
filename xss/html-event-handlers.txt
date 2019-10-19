@@ -1,3 +1,13 @@
+onpointercancel
+onpointerdown
+onpointerenter
+onpointerleave
+onpointermove
+onpointerout
+onpointerover
+onpointerup
+gotpointercapture 
+lostpointercapture
 ontouchstart
 ontouchend	
 ontouchmove
