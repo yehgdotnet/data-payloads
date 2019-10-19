@@ -1,3 +1,7 @@
+ontouchstart
+ontouchend	
+ontouchmove
+ontouchstart
 onabort
 onafterprint
 onbeforeprint
