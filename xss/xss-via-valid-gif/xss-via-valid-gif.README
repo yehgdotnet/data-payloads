@@ -1,3 +1,4 @@
+https://anotherhackerblog.com/exploiting-file-uploads-pt1/
 -----------------------------6683303835495
 Content-Disposition: form-data; name="upload"; filename="badfile.''gif"
 Content-Type: image/png
