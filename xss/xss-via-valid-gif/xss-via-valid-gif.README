@@ -1,0 +1,6 @@
+-----------------------------6683303835495
+Content-Disposition: form-data; name="upload"; filename="badfile.''gif"
+Content-Type: image/png
+
+GIF89a
+<xss payload>

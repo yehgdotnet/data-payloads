@@ -1,0 +1,2 @@
+GIF8
+<html>Microsoft Browsers only<script>alert('XSS');</script></html>
