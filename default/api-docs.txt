@@ -1,0 +1,8 @@
+/swagger-ui.html
+/swagger/swagger-ui.html
+/api/swagger-ui.html
+/api/doc/
+/api/docs/
+/swagger/index.html
+/v1/api/docs/
+/application.wadl?detail=true
