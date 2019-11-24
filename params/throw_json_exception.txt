@@ -12,3 +12,6 @@
 ["]
 ['']
 {""}
+{"@type":"Directory"}
+{"@type":"__PHP_Incomplete_Class"}
+{"@type":"stdClass"}
