@@ -1,0 +1,13 @@
+{"__type":"className"}
+{"__type":"invalid"}
+{"@type":"java.lang.Class"}
+{"dataSourceName":"/dev/null"}
+{"autoCommit":true}
+[]
+{}
+{"}
+{'}
+[']
+["]
+['']
+{""}
