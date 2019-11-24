@@ -71,5 +71,3 @@ encryption=nil
 automation=on
 automation=1
 automation=yes
-__type=className
-@type=java.lang.Class
