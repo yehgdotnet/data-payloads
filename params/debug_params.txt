@@ -82,3 +82,7 @@ security=0
 security=no
 disable=waf
 disable=security
+dosinglesignon=1
+singlesignon=1
+dosso=1
+sso=1
