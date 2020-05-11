@@ -1,7 +1,7 @@
 X-Forwarded-Host: be1337x.net
 X-Forwarded-For: be1337x.net
-True-Client-IP: be1337x.net
-X-Originating-IP: be1337x.net
+True-Client-IP: 1.3.3.7
+X-Originating-IP: 1.3.3.7
 X-Original-URL: be1337x.net
 X-Forwarded-Scheme: 1337x
 X-Forwarded-Proto: 1337x
