@@ -6,3 +6,9 @@
 /swagger/index.html
 /v1/api/docs/
 /application.wadl?detail=true
+/swagger.json
+/api-docs.json
+/apidocs.json
+/api.json
+/openapi.json
+/open-api.json
