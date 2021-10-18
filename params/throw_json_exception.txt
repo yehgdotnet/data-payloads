@@ -1,6 +1,7 @@
 {"__type":"className"}
 {"__type":"invalid"}
 {"@type":"java.lang.Class"}
+{"@type":"java.lang.AutoCloseable"}
 {"type":"invalid"}
 {"dataSourceName":"/dev/null"}
 {"autoCommit":true}
