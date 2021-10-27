@@ -5,6 +5,10 @@
 /api/docs/
 /swagger/index.html
 /v1/api/docs/
+/openapi/docs/
+/v2/api/docs/
+/v3/api/docs/
+/v4/api/docs/
 /application.wadl?detail=true
 /swagger.json
 /api-docs.json
