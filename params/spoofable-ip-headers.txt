@@ -1,0 +1,16 @@
+X-Azure-ClientIP: 127.0.0.1
+X-Azure-SocketIP:  127.0.0.1
+X-Originating-Ip: 127.0.0.1
+X-Remote-Ip: 127.0.0.1
+X-Remote-Addr: 127.0.0.1
+X-Real-Ip: 127.0.0.1
+X-Target-Ip: 127.0.0.1
+X-Forwarded-Host: 127.0.0.1
+True-Client-Ip: 127.0.0.1
+X-Original-Url: 127.0.0.1
+X-Host:  127.0.0.1
+Forwarded: for= 127.0.0.1
+True-Client-Ip: 127.0.0.1
+Forwarded: 127.0.0.1
+X-Forwarded-Host: 127.0.0.1
+Via: 127.0.0.1
